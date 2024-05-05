@@ -12,6 +12,7 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 
 ## Demo
 
+
 ## Features
 - Sunlight Detection
 - Watering System
