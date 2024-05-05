@@ -23,10 +23,8 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 - [Arduino](https://www.arduino.cc/ "Arduino's Homepage") - Microcontroller platform
 - [C/C++](https://cplusplus.com/ "Arduino's Homepage") - Programming language
 - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/ "Ultimaker Cura's Homepage") - 3D printing slicing software
-- [AutoDesk Inventor]( "'s Homepage") - 3D modeling and design software
-- []( "'s Homepage") -
-- []( "'s Homepage") -
-- []( "'s Homepage") - 
+- [AutoDesk Inventor](https://www.autodesk.com/products/inventor/features "Autodesk Inventor's Homepage") - 3D modeling and design software
+
 
 
 ## Acknowledgements
