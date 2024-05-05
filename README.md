@@ -15,13 +15,14 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 
 ## Demo
 *Note: Rubber tires were used for demo since PLA tracks did not have enough friction to move properly*
-### Goes towwards light
+### Goes towards light
 <br />
-![Demoshortvid-ezgif com-optimize](https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/cd4fb2a0-ec69-4c11-bed9-7d6827c7db0e)
+<img src="https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/cd4fb2a0-ec69-4c11-bed9-7d6827c7db0e" />
 
 ### Water Reservoir
 <br />
-![water-ezgif com-video-to-gif-converter](https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/0d4afa17-2998-4620-8652-e3d36ba9ab78)
+
+<img src="https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/0d4afa17-2998-4620-8652-e3d36ba9ab78" />
 <br />
 
 ## Features
