@@ -14,7 +14,7 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 
 
 ## Demo
-
+**Note: Tires were changed for demo since PLA tires did not have enough friction to move properly**
 ![Demoshortvid-ezgif com-optimize](https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/cd4fb2a0-ec69-4c11-bed9-7d6827c7db0e)
 
 
