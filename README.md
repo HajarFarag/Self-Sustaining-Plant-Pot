@@ -25,4 +25,6 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/ "Ultimaker Cura's Homepage") - 3D printing slicing software
 - [AutoDesk Inventor](https://www.autodesk.com/products/inventor/features "Autodesk Inventor's Homepage") - 3D modeling and design software
 
-
+## Acknowledgements
+Thanks to: 
+- [Nahuel Taibo](https://www.thingiverse.com/thing:2804287/ "Nahuel Taibo STL") for the Rover Track STL
