@@ -9,6 +9,7 @@
 
 ## Overview
 The purpose of the project is to leave a plant unattended so it can find optimal sunlight and water the plants when required. This is done using an Arduino to control different components to achieve the goal of the project.
+<br />
 ![Screenshot 2024-05-05 164431](https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/f89fc849-bbdb-4ea2-9090-a6cbc9dbd508)
 
 
