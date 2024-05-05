@@ -15,7 +15,7 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 
 ## Demo
 *Note: Rubber tires were used for demo since PLA tracks did not have enough friction to move properly*
-### Goes towards light
+### Plant pot moving towards light
 <br />
 <img src="https://github.com/HajarFarag/Self-Sustaining-Plant-Pot/assets/103531166/cd4fb2a0-ec69-4c11-bed9-7d6827c7db0e" />
 
