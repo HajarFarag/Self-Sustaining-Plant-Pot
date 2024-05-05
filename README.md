@@ -26,5 +26,3 @@ The purpose of the project is to leave a plant unattended so it can find optimal
 - [AutoDesk Inventor](https://www.autodesk.com/products/inventor/features "Autodesk Inventor's Homepage") - 3D modeling and design software
 
 
-
-## Acknowledgements
